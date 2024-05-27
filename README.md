@@ -1,0 +1,2 @@
+# MulticastDelegate
+Multicast delegate implementation
