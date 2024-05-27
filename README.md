@@ -1,2 +1,3 @@
 # MulticastDelegate
-Multicast delegate implementation
+
+Multicast delegate implementation in Swift
